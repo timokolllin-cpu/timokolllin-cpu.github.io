@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://timokolllin-cpu.github.io/sitemap.xml
